@@ -1,0 +1,22 @@
+.list-group-item.act {
+  /* From https://css.glass */
+  background: rgba(255, 255, 255, 0.06) !important;
+  border: none;
+  border-left: 15px solid #fff;
+  padding: 15px;
+  padding-inline: 4px;
+}
+.list-group-item {
+  padding: 20px;
+  background-color: none !important;
+  background: none !important;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+.iconx {
+  font-size: 20px;
+}
+/* .icon-user {
+  font-size: 16px;
+} */

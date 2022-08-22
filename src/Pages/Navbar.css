@@ -1,0 +1,29 @@
+.navbar-style {
+  background-color: rgb(80, 67, 140) !important;
+  padding: 12px;
+  height: 10vh;
+}
+.logo {
+  color: #fff;
+  margin: 0;
+}
+.navbar-user-image {
+  width: 41px;
+  height: 41px;
+  border-radius: 7px;
+}
+.user-name {
+  color: #fff;
+  font-weight: 500;
+}
+.user-role {
+  color: #fff;
+  font-size: 11px;
+}
+.icon {
+  font-size: 30px;
+  color: #fff;
+  margin-top: 2%;
+  margin-left: 6px;
+  cursor: pointer;
+}

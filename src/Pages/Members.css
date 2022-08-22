@@ -1,0 +1,65 @@
+.input-style {
+  width: 150px !important;
+  height: 40px !important;
+  border-radius: 7px !important;
+}
+.form-control:focus {
+  border-color: rgba(101, 101, 204, 0.8);
+  box-shadow: 0 0 2px rgba(101, 101, 204, 0.8);
+}
+.ant-tabs-nav::before {
+  border: none !important;
+}
+.form-control {
+  width: 50px;
+  height: 32px;
+}
+.form-select {
+  height: 32px;
+  font-size: 15px;
+  color: #bebbbb;
+  font-weight: 500;
+}
+.add-member {
+  font-size: 12px;
+  border-radius: 4px;
+  background-color: rgba(92, 92, 191, 0.9);
+  color: #fff;
+  border: none;
+  height: 30px;
+}
+.add-member:hover {
+  font-size: 12px;
+  border-radius: 4px;
+  background-color: rgba(57, 57, 110, 0.9);
+  color: #fff;
+  border: none;
+  height: 30px;
+}
+.icon-edit-delete {
+  color: rgba(92, 92, 191, 0.9);
+  cursor: pointer;
+  font-size: 17px;
+}
+.user-image-table {
+  width: 45px;
+  height: 45px;
+  border-radius: 10px;
+}
+th {
+  border-bottom-color: #f1f1f1 !important;
+  color: #bebbbb;
+  font-weight: 500;
+}
+.isActive {
+  background-color: rgba(144, 238, 144, 0.575);
+  color: green;
+  border-radius: 50px;
+  width: 64px;
+}
+.InActive {
+  background-color: rgba(255, 0, 0, 0.104);
+  color: red;
+  border-radius: 50px;
+  width: 64px;
+}

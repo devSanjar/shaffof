@@ -1,0 +1,40 @@
+.second-col {
+  background-color: #e5e5e5;
+}
+.input-style {
+  width: 260px !important;
+  height: 55px !important;
+  border-radius: 7px !important;
+}
+.main-text {
+  font-weight: 640;
+  font-size: 35px;
+  color: gray !important;
+}
+.form-control:focus {
+  border-color: rgba(101, 101, 204, 0.8);
+  box-shadow: 0 0 2px rgba(101, 101, 204, 0.8);
+}
+input::placeholder {
+  font-weight: 600;
+  color: #c4bfbf !important;
+}
+.login-button {
+  background-color: rgb(101, 101, 199);
+  border: none;
+  border-radius: 7px;
+  padding: 9px;
+  font-size: 13px;
+  font-weight: 600;
+}
+.login-button:hover {
+  background-color: rgb(103, 103, 166);
+  border: none;
+  border-radius: 7px;
+  padding: 9px;
+  font-size: 13px;
+  font-weight: 600;
+}
+.right-side-logo {
+  width: 300px;
+}
